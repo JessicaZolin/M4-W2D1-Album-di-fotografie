@@ -1,0 +1,16 @@
+.carousel-indicators {
+    bottom: -50px;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
+.carousel-item {
+    height: 100%;
+
+    & img {
+        height: 100%;
+    }
+}
+
